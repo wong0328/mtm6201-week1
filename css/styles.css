@@ -59,6 +59,9 @@ body{
 .title{
     background-color: #f3cd8a;
     font-weight: bold;
+    margin-top: 5mm;
+    padding: 1mm;
+    font-size: larger;
 }
 
 .images img{
@@ -77,6 +80,7 @@ body{
 
 dt{
     font-weight: bold;
+    margin-top: 5mm;
 }
 
 .list{
