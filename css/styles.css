@@ -56,12 +56,13 @@ body{
 
 }
 
-.title{
+.name{
     background-color: #f3cd8a;
     font-weight: bold;
     margin-top: 5mm;
-    padding: 1mm;
-    font-size: larger;
+    padding: 2mm;
+    font-size: 30px;
+   
 }
 
 .images img{
